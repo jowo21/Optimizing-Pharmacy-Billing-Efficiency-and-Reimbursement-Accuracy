@@ -67,7 +67,7 @@ Top 10 Medications with bill to payment gaps far into negative
 
 - Medications with higher than average adjustment rates also have a high impact on billing inefficiency and delays and are also essential to track.
 
-Top 10 Items that are at or above the average adjustment rate of 74.8%
+    Top 10 Items that are at or above the average adjustment rate of 74.8%
 
 | NDC | Total Claims | Total Adjustments | Adjustment rate percent | Drug Name |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Top 10 Items that are at or above the average adjustment rate of 74.8%
 
 - Medications that have a lower reimbursement rate
 
-Top 10 Items that are below the average Reimbursement rate of 69.7%
+    Top 10 Items that are below the average Reimbursement rate of 69.7%
 
 | NDC | Total Claims | Reimbursement rate | Drug Name |
 | --- | --- | --- | --- |
