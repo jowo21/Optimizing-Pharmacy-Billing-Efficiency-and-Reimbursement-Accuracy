@@ -7,8 +7,7 @@ This department uses a structured claims dataset capturing detailed information 
 ---
 <br>
 <br>
-<br>
-<br>
+
 
 ### **Business Problem:**
 
@@ -17,7 +16,8 @@ The Revenue Cycle Manager has observed inconsistencies in reimbursement rates ac
 The goal is to identify billing patterns, inefficiencies, and revenue loss drivers, and to develop actionable insights to improve billing practices and reimbursement outcomes.
 
 ---
-
+<br>
+<br>
 ### **Objectives:**
 
 1. Analyze billing patterns to identify **frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
@@ -27,7 +27,10 @@ The goal is to identify billing patterns, inefficiencies, and revenue loss drive
 5. Recommend strategies to **reduce claim adjustments** and improve **net revenue per prescription line**.
 
 ---
-
+<br>
+<br>
+<br>
+<br>
 ### About Dataset:
 
 The Dataset consisted of 41 Columns  and 10.3 million rows.
@@ -39,7 +42,11 @@ The data structure and explanation of columns can be found [here](https://github
 The steps taken to clean this data can be found here [here](https://github.com/jowo21/Optimizing-Pharmacy-Billing-Efficiency-and-Reimbursement-Accuracy/blob/main/pharmacy%20billing%20cleaning%20steps.txt)
 
 The SQL code for Exploratory Data Analysis can be found [here](https://github.com/jowo21/Optimizing-Pharmacy-Billing-Efficiency-and-Reimbursement-Accuracy/blob/main/PHARMACY%20BILLING%20EDA%20AND%20KPIs%202.sql)
-
+---
+<br>
+<br>
+<br>
+<br>
 ### Executive Summary:
 
 The largest determining factors of billing inefficiencies are:
