@@ -5,6 +5,10 @@ Pharmacy billing plays a critical role in the financial success of a healthcare 
 This department uses a structured claims dataset capturing detailed information about each prescription billed, dispensed, and reimbursed.
 
 ---
+<br>
+<br>
+<br>
+<br>
 
 ### **Business Problem:**
 
