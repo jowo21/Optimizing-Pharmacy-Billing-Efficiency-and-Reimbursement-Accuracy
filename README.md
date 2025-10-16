@@ -50,7 +50,7 @@ The largest determining factors of billing inefficiencies are:
 
 - Medications that have a large gap between the billing amount and the paid amount with the paid amounts being larger than those billed is a great indicator of billing inefficiencies and it is essential to track those specific items
 
-Top 10 Medications with bill to payment gaps far into negative
+    Top 10 Medications with bill to payment gaps far into negative
 
 | NDC | Billed to payment gap | Drug Name |
 | --- | --- | --- |
@@ -64,6 +64,9 @@ Top 10 Medications with bill to payment gaps far into negative
 | 59148002050 | -41889.94 | SAMSCA |
 | 58468102501 | -37599.6 | CARTICEL |
 | 51552142508 | -35524.1 | LIPOPEN ULTRA BASE |
+
+<br>
+<br>
 
 - Medications with higher than average adjustment rates also have a high impact on billing inefficiency and delays and are also essential to track.
 
