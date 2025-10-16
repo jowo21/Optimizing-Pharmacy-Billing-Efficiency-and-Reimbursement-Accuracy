@@ -28,7 +28,6 @@ The goal is to identify billing patterns, inefficiencies, and revenue loss drive
 
 ---
 
-
 ### About Dataset:
 
 The Dataset consisted of 41 Columns  and 10.3 million rows.
@@ -40,7 +39,6 @@ The data structure and explanation of columns can be found [here](https://github
 The steps taken to clean this data can be found here [here](https://github.com/jowo21/Optimizing-Pharmacy-Billing-Efficiency-and-Reimbursement-Accuracy/blob/main/pharmacy%20billing%20cleaning%20steps.txt)
 
 The SQL code for Exploratory Data Analysis can be found [here](https://github.com/jowo21/Optimizing-Pharmacy-Billing-Efficiency-and-Reimbursement-Accuracy/blob/main/PHARMACY%20BILLING%20EDA%20AND%20KPIs%202.sql)
-
 <br>
 <br>
 
