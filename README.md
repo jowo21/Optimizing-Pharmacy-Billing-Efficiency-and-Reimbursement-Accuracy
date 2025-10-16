@@ -109,6 +109,7 @@ The largest determining factors of billing inefficiencies are:
 <br>
 <br>
 <br>
+
 ---
 
 ### Other Insights:
@@ -162,6 +163,7 @@ Assuming Contractual Obligations (CO) probably can’t be avoided in the selecti
 <br>
 <br>
 <br>
+
 ---
 
   ### Recommendations:
