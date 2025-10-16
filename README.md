@@ -85,6 +85,9 @@ The largest determining factors of billing inefficiencies are:
 | 66336040830 | 58 | 62 | 106.9 | HYDROCODONE/ACETAMINOPHEN |
 | 68001022804 | 54 | 55 | 101.85 | TROSPIUM CHLORIDE ER |
 
+<br>
+<br>
+
 - Medications that have a lower reimbursement rate
 
     Top 10 Items that are below the average Reimbursement rate of 69.7%
@@ -101,6 +104,12 @@ The largest determining factors of billing inefficiencies are:
 | 60429076910 | 47 | 22.43% | TOPIRAMATE 25 MG |
 | 68382000905 | 49 | 24.78% | LAMOTRIGINE |
 | 52959000930 | 39 | 32.82% | CLONAZEPAM 0.5 MG CLONAZEPAM |
+
+<br>
+<br>
+<br>
+<br>
+---
 
 ### Other Insights:
 
@@ -122,6 +131,9 @@ The largest determining factors of billing inefficiencies are:
     | 5 | 60.63% | 50.45% |
     | 7 | 82.31% | 65.07% |
 
+<br>
+<br>
+
 - The adjustment codes that amounted to the most revenue changes are the following:
     
     
@@ -133,14 +145,24 @@ The largest determining factors of billing inefficiencies are:
     | PR | 18160 | $2,120,614.17 | $48.07 |
     | MA | 397 | $72,041.01 | $170.64 |
 
+  <br>
+  <br>
+
 Assuming Contractual Obligations (CO) probably can’t be avoided in the selection of medications, those that fall under Other Adjustments (OA) can be tracked and have the option to redirect to a less costly item.
 
 - The Average adjustment amounts over time showed slight increases in Q3 of the year which may help to adjust or prepare for high revenue deltas during that timeframe.
+<br>
   By Quarter
   <img width="1844" height="1208" alt="image" src="https://github.com/user-attachments/assets/32522af1-0f21-4876-b05f-8344e4d6521d" />
-
+<br>
   By Month
   <img width="1832" height="1205" alt="image" src="https://github.com/user-attachments/assets/4fafed06-9bab-4313-baeb-a98225828c09" />
+  
+<br>
+<br>
+<br>
+<br>
+---
 
   ### Recommendations:
 
@@ -149,6 +171,9 @@ The best way to reduce inefficiencies and improve cost reduction based on this d
 - Service Adjustment code OA
 - 3 or more Service Adjustments
 - Lower that average reimbursement rates (lower than 69.7%)
+
+<br>
+<br>
 
  The following dashboard will help with this task by allowing the user to search a filtered table for the NDC billed code, the drug name, or the amount of service adjustments:
 <img width="2214" height="1205" alt="image" src="https://github.com/user-attachments/assets/65d88402-c46f-4916-9068-5edb29beb5ae" />
