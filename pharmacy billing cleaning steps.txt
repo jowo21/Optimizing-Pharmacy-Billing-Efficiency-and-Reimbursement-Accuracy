@@ -1,0 +1,12 @@
+# Data Cleaning
+
+Python: removed commas in order to import
+
+```python
+df = df.replace(',',' ', regex=True)
+```
+
+Power BI: 
+
+- changed date datatypes: string → date
+- changed currency data: string → float
