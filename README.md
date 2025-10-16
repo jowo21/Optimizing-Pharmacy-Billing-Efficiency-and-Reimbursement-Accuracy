@@ -5,19 +5,20 @@ Pharmacy billing plays a critical role in the financial success of a healthcare 
 This department uses a structured claims dataset capturing detailed information about each prescription billed, dispensed, and reimbursed.
 
 ---
-<br>
-<br>
-
 
 ### **Business Problem:**
 
 The Revenue Cycle Manager has observed inconsistencies in reimbursement rates across similar prescriptions and an increasing number of service adjustments and billing denials. Additionally, the dispensing fee and total billed amounts often don’t correlate with the actual amounts paid, raising concerns about billing inefficiencies and potential compliance issues.
 
 The goal is to identify billing patterns, inefficiencies, and revenue loss drivers, and to develop actionable insights to improve billing practices and reimbursement outcomes.
+<br>
+<br>
 
 ---
+
 <br>
 <br>
+
 ### **Objectives:**
 
 1. Analyze billing patterns to identify **frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
@@ -31,6 +32,7 @@ The goal is to identify billing patterns, inefficiencies, and revenue loss drive
 <br>
 <br>
 <br>
+
 ### About Dataset:
 
 The Dataset consisted of 41 Columns  and 10.3 million rows.
