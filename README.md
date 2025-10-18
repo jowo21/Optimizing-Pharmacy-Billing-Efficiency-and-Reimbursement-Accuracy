@@ -155,7 +155,9 @@ Assuming Contractual Obligations (CO) probably can’t be avoided in the selecti
 <br>
   By Quarter
   <img width="1844" height="1208" alt="image" src="https://github.com/user-attachments/assets/32522af1-0f21-4876-b05f-8344e4d6521d" />
+  
 <br>
+
   By Month
   <img width="1832" height="1205" alt="image" src="https://github.com/user-attachments/assets/4fafed06-9bab-4313-baeb-a98225828c09" />
   
