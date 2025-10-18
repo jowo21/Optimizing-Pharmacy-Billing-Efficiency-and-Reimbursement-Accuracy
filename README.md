@@ -153,6 +153,7 @@ Assuming Contractual Obligations (CO) probably can’t be avoided in the selecti
 
 - The Average adjustment amounts over time showed slight increases in Q3 of the year which may help to adjust or prepare for high revenue deltas during that timeframe.
 <br>
+
   By Quarter
   <img width="1844" height="1208" alt="image" src="https://github.com/user-attachments/assets/32522af1-0f21-4876-b05f-8344e4d6521d" />
   
