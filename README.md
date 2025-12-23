@@ -178,6 +178,9 @@ This can be achieved by utilizing the following dashboard which will allow the u
 
 Immediate reduction in under performing prescriptions and improved net revenue per claim.
 
+<br>
+<br>
+
 ### 2. Optimize Medication Selection Through Reimbursement Performance
 
 **Objective:** 
@@ -197,6 +200,10 @@ Shift volume toward financially efficient medications.
 
 Sustainable revenue improvement without increasing patient or provider burden.
 
+<br>
+<br>
+
+
 ### 3. Target Other Adjustments (OA) for Process Improvement
 
 **Objective:** 
@@ -215,6 +222,10 @@ Reduce avoidable and variable adjustment costs.
 **Expected Impact:** 
 
 Reduction in volatile revenue losses not driven by contractual obligations.
+
+<br>
+<br>
+
 
 ### 4. Implement Seasonal Forecasting and Resource Planning
 
