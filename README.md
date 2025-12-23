@@ -152,6 +152,11 @@ Assuming Contractual Obligations (CO) probably can’t be avoided in the selecti
  - The Average adjustment amounts over time showed slight increases in Q3 of the year which may help to adjust or prepare for high revenue deltas during that time frame.
 <img width="1832" height="1205" alt="image" src="https://github.com/user-attachments/assets/9a0a5f9e-fe31-4ee2-943e-741a3ae1fe0d" />
 
+<br>
+<br>
+<br>
+<br>
+
 ## **Recommendations**
 
 ### 1. Establish a High-Risk Prescription Watch list
