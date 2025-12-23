@@ -83,7 +83,10 @@ Medications that have large underpayments (a large gap between the billing amoun
 
 - Among all of the medications that showed any positive amount billing gap, there were 900 medications that had reimbursements that were not covered by service adjustments (0.08% of the entire dataset) which amounted to a loss of $282.428.65.
 
- - The overall average reimbursement rate, calculated by the overall percentage of the paid amount from the billing amount, is 70%.  
+ - The overall average reimbursement rate, calculated by the overall percentage of the paid amount from the billing amount, is 70%.
+
+<br>
+<br>
 
 ### 2. Adjustment Frequency and Impact
 
