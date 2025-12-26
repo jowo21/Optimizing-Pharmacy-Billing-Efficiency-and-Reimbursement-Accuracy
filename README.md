@@ -181,6 +181,8 @@ Immediate reduction in under performing prescriptions and improved net revenue p
 <br>
 <br>
 
+---
+
 ### 2. Optimize Medication Selection Through Reimbursement Performance
 
 **Objective:** 
@@ -203,6 +205,7 @@ Sustainable revenue improvement without increasing patient or provider burden.
 <br>
 <br>
 
+---
 
 ### 3. Target Other Adjustments (OA) for Process Improvement
 
@@ -226,6 +229,7 @@ Reduction in volatile revenue losses not driven by contractual obligations.
 <br>
 <br>
 
+---
 
 ### 4. Implement Seasonal Forecasting and Resource Planning
 
