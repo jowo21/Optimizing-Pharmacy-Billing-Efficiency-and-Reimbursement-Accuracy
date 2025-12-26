@@ -4,11 +4,11 @@ Pharmacy billing plays a critical role in the financial success of a healthcare 
 
 This department uses a structured claims dataset capturing detailed information about each prescription billed, dispensed, and reimbursed.
 
----
+
 
 The Pharmacy Manager has observed inconsistencies in reimbursement rates across similar prescriptions and an increasing number of service adjustments and billing denials. Additionally, the dispensing fee and total billed amounts often don’t correlate with the actual amounts paid, raising concerns about billing inefficiencies and potential compliance issues.
 
-Based on the dataset provided that contains over 10 million prescription billing entries compiled from 2010 to 2018, the goal is to identify billing patterns, inefficiencies, causes of delays, and revenue loss drivers, and to develop actionable insights to improve billing practices and reimbursement outcomes.
+
 
 <br>
 <br>
