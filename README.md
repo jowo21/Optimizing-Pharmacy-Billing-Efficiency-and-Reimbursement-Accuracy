@@ -17,7 +17,7 @@ The Pharmacy Manager has observed inconsistencies in reimbursement rates across 
 
 ---
 
-### **Objectives:**
+## **Objectives:**
 
 1. Analyze billing patterns to identify **frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
 2. Identify **high-cost drugs** and **low reimbursement rates** by NDC codes or drug names.
@@ -32,7 +32,7 @@ The Pharmacy Manager has observed inconsistencies in reimbursement rates across 
 
 ---
 
-### About Dataset:
+## About Dataset:
 
 The Dataset consisted of 41 Columns  and 10.3 million rows.
 
