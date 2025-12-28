@@ -50,7 +50,7 @@ The SQL code for Exploratory Data Analysis can be found [here](https://github.co
 <br>
 <br>
 
----
+
 
 ## **Executive Summary**
 
