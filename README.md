@@ -54,7 +54,11 @@ The SQL code for Exploratory Data Analysis can be found [here](https://github.co
 
 ## **Executive Summary**
 
+### Overview
+
 - This analysis evaluated over **10.3 million pharmacy claims from 2010–2018** to identify drivers of reimbursement variability, billing inefficiencies, and revenue leakage. The results indicate that while overall pharmacy billing performance is stable at a macro level, **a concentrated subset of prescriptions disproportionately drives revenue loss, payment delays, and operational inefficiency**.
+
+### Key Contributing Factors to Inefficiencies
 
 - Key findings show that **38% of prescriptions exhibit an unacceptable billing-to-payment gap exceeding 70%**, resulting in **$403.8M in realized revenue loss over eight years**, or approximately **$50.5M annually**. The **overall reimbursement rate of 70%** further implies **$454.0M in billed revenue that was never reimbursed**, signaling systemic underpayment rather than isolated billing errors.
 
@@ -62,7 +66,9 @@ The SQL code for Exploratory Data Analysis can be found [here](https://github.co
 
 - Importantly, **DAW codes and dispensing fees are not material contributors to reimbursement inefficiency**, suggesting that improvement efforts should focus elsewhere. Instead, **specific NDCs, medications, and adjustment group codes, particularly “Other Adjustments (OA),represent the greatest opportunities for targeted intervention**. Seasonal patterns also emerged, with **April, August, and December** showing consistent increases in underpayment gaps and adjustment amounts, enabling proactive planning.
 
-- Overall, this analysis demonstrates that **pharmacy revenue optimization is best achieved through focused intervention on a small subset of high-risk prescriptions rather than broad operational changes**. By combining data driven medication selection, adjustment monitoring, and predictive analytics, the Pharmacy Manager can significantly improve net revenue, reduce delays, and strengthen financial sustainability.
+### Initial Recommendations
+
+- Overall, this analysis demonstrates that **pharmacy revenue optimization is best achieved through focused intervention on a small subset of high-risk prescriptions rather than broad operational changes**.  This can be achieved through actions such as **establishing a high-risk prescription watch-list or optimizing medication selection through reimbursement performance.**  By combining data driven medication selection, adjustment monitoring, and predictive analytics, the Pharmacy Manager can significantly improve net revenue, reduce delays, and strengthen financial sustainability.
 
 <br>
 <br>
