@@ -19,7 +19,7 @@ The Revenue Cycle Manager has observed inconsistencies in reimbursement rates ac
 
 ## **Objectives**
 
-1. Analyze billing patterns to **identify frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
+1. Analyze billing patterns to **identify frequent adjustment reasons and discrepancies** between billed and paid amounts.
 2. **Identify high-cost drugs and low reimbursement rates** by NDC codes or drug names.
 3. **Detect providers and medications** with unusually high adjustment frequencies.
 4. **Determine the impact of the Dispensed as Written (DAW) Code** and **Basis of Cost Determination** on reimbursement outcomes.
