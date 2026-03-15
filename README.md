@@ -6,7 +6,7 @@ This department uses a structured claims dataset capturing detailed information 
 
 
 
-The Pharmacy Manager has observed inconsistencies in reimbursement rates across similar prescriptions and an increasing number of service adjustments and billing denials. Additionally, the dispensing fee and total billed amounts often don’t correlate with the actual amounts paid, raising concerns about billing inefficiencies and potential compliance issues.
+The Revenue Cycle Manager has observed inconsistencies in reimbursement rates across similar prescriptions and an increasing number of service adjustments and billing denials. Additionally, the dispensing fee and total billed amounts often don’t correlate with the actual amounts paid, raising concerns about billing inefficiencies and potential compliance issues.
 
 
 
@@ -19,11 +19,11 @@ The Pharmacy Manager has observed inconsistencies in reimbursement rates across 
 
 ## **Objectives**
 
-1. Analyze billing patterns to identify **frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
-2. Identify **high-cost drugs** and **low reimbursement rates** by NDC codes or drug names.
-3. Detect **providers and medications** with unusually high adjustment frequencies.
-4. Determine the **impact of the Dispensed as Written (DAW) Code** and **Basis of Cost Determination** on reimbursement outcomes.
-5. Recommend strategies to **reduce claim adjustments** and improve **net revenue per prescription line**.
+1. Analyze billing patterns to **identify frequent adjustment reasons** and **discrepancies** between billed and paid amounts.
+2. **Identify high-cost drugs and low reimbursement rates** by NDC codes or drug names.
+3. **Detect providers and medications** with unusually high adjustment frequencies.
+4. **Determine the impact of the Dispensed as Written (DAW) Code** and **Basis of Cost Determination** on reimbursement outcomes.
+5. Recommend strategies to **reduce claim adjustments** and **improve net revenue per prescription line**.
 
 <br>
 <br>
