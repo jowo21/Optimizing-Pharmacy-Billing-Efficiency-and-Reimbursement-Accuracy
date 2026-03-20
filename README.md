@@ -178,7 +178,8 @@ Prevent revenue leakage before it occurs.
 
 This can be achieved by utilizing the following dashboard which will allow the user to search medications by NDC or Drug name and quickly identify those that fall under the less performing criteria:
 
-<img width="2029" height="1035" alt="image" src="https://github.com/user-attachments/assets/bef5da0a-40b5-4625-8ff8-ccfebf4d369f" />
+<img width="2038" height="1005" alt="image" src="https://github.com/user-attachments/assets/79ce1c23-a7fc-4e0b-b008-c4e42ccbc654" />
+
 
 
 
